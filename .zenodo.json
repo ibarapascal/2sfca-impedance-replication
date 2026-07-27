@@ -2,10 +2,26 @@
   "title": "Replication package: classification instability of the distance-decay choice in floating catchment accessibility",
   "description": "Code and derived results for a study quantifying how the choice of distance-decay (impedance) function changes the discrete classifications produced by two-step floating catchment area (2SFCA) accessibility measures, and bounding the defensible decay range by inverting decay from published person-trip origin-destination tables. Covers three Japanese metropolitan areas at 125 m resolution (566,885 populated cells, 145,078 medical facilities), six conventional decay specifications on pedestrian network distances, classification-stability diagnostics (pairwise disagreement, displacement, perturbation and copula null floors, designation turnover under relative and absolute rules), and a doubly constrained gravity inversion with bootstrap uncertainty.",
   "upload_type": "software",
-  "license": "mit",
+  "license": {
+    "id": "mit"
+  },
   "creators": [
-    {"name": "Jing, Jiawei", "affiliation": "Makuhari Development Corporation", "orcid": "0009-0000-8365-367X"}
+    {
+      "name": "Jing, Jiawei",
+      "affiliation": "Makuhari Development Corporation",
+      "orcid": "0009-0000-8365-367X"
+    }
   ],
-  "keywords": ["spatial accessibility", "two-step floating catchment area", "2SFCA", "distance decay", "impedance function", "gravity model calibration", "GIScience", "reproducibility", "Japan"],
+  "keywords": [
+    "spatial accessibility",
+    "two-step floating catchment area",
+    "2SFCA",
+    "distance decay",
+    "impedance function",
+    "gravity model calibration",
+    "GIScience",
+    "reproducibility",
+    "Japan"
+  ],
   "access_right": "open"
 }
