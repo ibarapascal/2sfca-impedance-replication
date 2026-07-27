@@ -1,0 +1,35 @@
+{
+  "beta": 0.0006,
+  "flip5_vs_existing_pct": {
+    "fukuoka": {
+      "negexp_b001": 27.2,
+      "negexp_b003": 53.91,
+      "power_15": 37.8,
+      "gauss_s1500": 23.31,
+      "rect": 50.29,
+      "zone_e2sfca": 23.83,
+      "emp_negexp_walk": 26.24,
+      "emp_power_walk": 59.28
+    },
+    "osaka": {
+      "negexp_b001": 25.8,
+      "negexp_b003": 55.88,
+      "power_15": 38.37,
+      "gauss_s1500": 21.08,
+      "rect": 46.74,
+      "zone_e2sfca": 22.49,
+      "emp_negexp_walk": 24.78,
+      "emp_power_walk": 63.71
+    },
+    "shutoken": {
+      "negexp_b001": 27.31,
+      "negexp_b003": 55.73,
+      "power_15": 37.05,
+      "gauss_s1500": 23.54,
+      "rect": 50.08,
+      "zone_e2sfca": 24.62,
+      "emp_negexp_walk": 26.32,
+      "emp_power_walk": 62.4
+    }
+  }
+}

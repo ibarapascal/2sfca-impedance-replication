@@ -1,0 +1,62 @@
+{
+  "n_mesh": 376131,
+  "n_fac": 95704,
+  "total_pop": 37358590.0,
+  "d_max_m": 5000.0,
+  "specs": [
+    "negexp_b001",
+    "negexp_b003",
+    "power_15",
+    "gauss_s1500",
+    "rect",
+    "zone_e2sfca"
+  ],
+  "zero_access_counts": {
+    "negexp_b001": 195,
+    "negexp_b003": 195,
+    "power_15": 195,
+    "gauss_s1500": 195,
+    "rect": 195,
+    "zone_e2sfca": 195
+  },
+  "flip_any_pct": 84.38575921686859,
+  "flip_any_popweighted_pct": 78.42590954315996,
+  "flip_range_ge2_pct": 48.2810510168,
+  "flip_range_ge2_popweighted_pct": 36.321317265988895,
+  "pairwise_flip_pct": {
+    "negexp_b001|negexp_b003": 49.0,
+    "negexp_b001|power_15": 34.47,
+    "negexp_b001|gauss_s1500": 21.43,
+    "negexp_b001|rect": 63.46,
+    "negexp_b001|zone_e2sfca": 46.07,
+    "negexp_b003|power_15": 35.94,
+    "negexp_b003|gauss_s1500": 57.18,
+    "negexp_b003|rect": 70.39,
+    "negexp_b003|zone_e2sfca": 64.08,
+    "power_15|gauss_s1500": 45.16,
+    "power_15|rect": 63.49,
+    "power_15|zone_e2sfca": 52.6,
+    "gauss_s1500|rect": 63.1,
+    "gauss_s1500|zone_e2sfca": 41.5,
+    "rect|zone_e2sfca": 48.15
+  },
+  "pairwise_spearman": {
+    "negexp_b001|negexp_b003": 0.7939,
+    "negexp_b001|power_15": 0.9116,
+    "negexp_b001|gauss_s1500": 0.9731,
+    "negexp_b001|rect": 0.5388,
+    "negexp_b001|zone_e2sfca": 0.8298,
+    "negexp_b003|power_15": 0.9036,
+    "negexp_b003|gauss_s1500": 0.6723,
+    "negexp_b003|rect": 0.3091,
+    "negexp_b003|zone_e2sfca": 0.5108,
+    "power_15|gauss_s1500": 0.8258,
+    "power_15|rect": 0.5039,
+    "power_15|zone_e2sfca": 0.7264,
+    "gauss_s1500|rect": 0.5655,
+    "gauss_s1500|zone_e2sfca": 0.8768,
+    "rect|zone_e2sfca": 0.8301
+  },
+  "bottom20_unstable_pct_of_union": 85.69023333799078,
+  "bottom20_union_minus_core_mesh": 122657
+}

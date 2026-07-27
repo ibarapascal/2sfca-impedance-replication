@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Replication package: classification instability of the distance-decay choice in floating catchment accessibility"
+type: software
+authors:
+  - family-names: Jing
+    given-names: Jiawei
+    orcid: "https://orcid.org/0009-0000-8365-367X"
+    affiliation: "Makuhari Development Corporation"
+license: MIT
+keywords:
+  - spatial accessibility
+  - 2SFCA
+  - distance decay
+  - gravity model calibration
+  - reproducibility
