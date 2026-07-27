@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21626841.svg)](https://doi.org/10.5281/zenodo.21626841)
+
 # Replication package: classification instability of the distance-decay choice in floating catchment accessibility
 
 Code and derived results for a study of how the choice of distance-decay (impedance) function changes the
@@ -71,8 +73,11 @@ Random elements: the bootstrap in `supplement_v3.py` and the copula null both us
 
 ## Citing this package
 
-Please cite the archived release (Zenodo DOI, see the badge at the top of this repository once minted)
-rather than the moving `main` branch, so that the exact code state is identified.
+Jing, Jiawei. 2026. "Replication Package: Classification Instability of the Distance-Decay Choice in
+Floating Catchment Accessibility." Software, v1.0.1. Zenodo. https://doi.org/10.5281/zenodo.21626841
+
+Please cite the archived release rather than the moving `main` branch, so that the exact code state is
+identified.
 
 ## License
 
